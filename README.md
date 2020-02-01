@@ -3,4 +3,6 @@
 
 浏览格式：
 
-<img src="https://raw.githubusercontent.com/LY-CS/image/master/images/222.png"/>
+<img src="https://raw.githubusercontent.com
+
+/LY-CS/image/master/images/222.png"/>
